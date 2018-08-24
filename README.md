@@ -50,3 +50,7 @@ npx live-server
 * watch -t -n1 "date +%T|toilet"
 * look: Check for Spelling of Words in Linux 
 * say: english words pronounce
+
+### Books
+
+* http://conqueringthecommandline.com/book
