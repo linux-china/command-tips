@@ -5,6 +5,7 @@
 
 * exa: modern replacement for ls https://the.exa.website/
 * ack: a tool like grep, optimized for programmers https://beyondgrep.com/
+* ag: A code-searching tool similar to ack, but faster https://github.com/ggreer/the_silver_searcher
 * mtr : A command which is a combination of ‘ping’ and ‘traceroute’ command.
 * tldr: Simplified and community-driven man pages https://github.com/tldr-pages/tldr
 * nl : Outputs the content of text file with lines Numbered
