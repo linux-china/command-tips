@@ -34,6 +34,12 @@ ifconfig | grep -Eo 'inet (addr:)?([0-9]*\.){3}[0-9]*' | grep -Eo '([0-9]*\.){3}
 watch tail /var/log/auth.log
 ```
 * A cat(1) clone with wings.  https://github.com/sharkdp/bat brew install 
+* A program that allows you to count your code, quickly. cloc replacement https://github.com/Aaronepower/tokei 
+* fd is a simple, fast and user-friendly alternative to find.  https://github.com/sharkdp/fd 
+* ripgrep recursively searches directories for a regex pattern  https://github.com/BurntSushi/ripgrep 
+* Project templates in rust https://github.com/vmchale/project-init
+* Just a command runner  https://github.com/casey/just
+* A fast CSV command line toolkit written in Rust. https://github.com/BurntSushi/xsv
 
 ### Services 
 
@@ -61,3 +67,10 @@ npx live-server
 ### Books
 
 * http://conqueringthecommandline.com/book
+
+
+### references
+
+* Writing a Command Line Tool in Rust https://mattgathu.github.io/writing-cli-app-rust/
+* 5 Tips for Writing Small CLI Tools in Rust https://deterministic.space/rust-cli-tips.html
+* Command-line tools written in Rust https://www.reddit.com/r/rust/comments/70b74a/commandline_tools_written_in_rust/
