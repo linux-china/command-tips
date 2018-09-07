@@ -40,6 +40,7 @@ watch tail /var/log/auth.log
 * Project templates in rust https://github.com/vmchale/project-init
 * Just a command runner  https://github.com/casey/just
 * A fast CSV command line toolkit written in Rust. https://github.com/BurntSushi/xsv
+* Executes commands in response to file modifications https://github.com/watchexec/watchexec
 
 ### Services 
 
