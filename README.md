@@ -12,7 +12,8 @@
 * tree : Prints files and folders in tree like fashion, recursively
 * Pstree : Prints running processes with child processes, recursively
 * lsof -iTCP:80 -sTCP:LISTEN. The script, outputs all the service/process using port 80.
-* htop: 
+* htop:  an interactive process viewer for Unix https://hisham.hm/htop/
+* Glances an Eye on your system. A top/htop alternative https://github.com/nicolargo/glances
 * direct normal output and errors to /dev/null
 ```
 xxxxx  > /dev/null 2>&1
@@ -25,7 +26,7 @@ xxxxx  > /dev/null 2>&1
 ifconfig | grep -Eo 'inet (addr:)?([0-9]*\.){3}[0-9]*' | grep -Eo '([0-9]*\.){3}[0-9]*' | grep -v '127.0.0.1'
 ```
 
-### Files
+### File & directory
 
 * find . -size +100M : find fine bigger than 100M
 * gshred or srm: Delete File Permanently 
@@ -41,6 +42,18 @@ watch tail /var/log/auth.log
 * Just a command runner  https://github.com/casey/just
 * A fast CSV command line toolkit written in Rust. https://github.com/BurntSushi/xsv
 * Executes commands in response to file modifications https://github.com/watchexec/watchexec
+* command-line fuzzy finder:  https://github.com/junegunn/fzf  
+```
+alias preview="fzf --height 40% --preview 'if file -i {}|grep -q binary; then file -b {}; else bat --color \"always\" --line-range :40 {}; fi'"
+```
+* fastest terminal file manager  https://github.com/jarun/nnn
+* jq: https://stedolan.github.io/jq/
+* Monitor a process and trigger a notification https://github.com/variadico/noti
+* Run arbitrary commands when files change: http://www.entrproject.org
+* Make JSON greppable: https://github.com/TomNomNom/gron 
+* A cd command that learns - easily navigate directories from the command line  https://github.com/wting/autojump
+* tig: https://jonas.github.io/tig/doc/tig.1.html
+* Command-line productivity booster, offers quick access to files and directories, inspired by autojump, z and v. https://github.com/clvv/fasd
 
 ### Services 
 
