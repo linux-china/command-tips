@@ -25,6 +25,7 @@ xxxxx  > /dev/null 2>&1
 ```
 ifconfig | grep -Eo 'inet (addr:)?([0-9]*\.){3}[0-9]*' | grep -Eo '([0-9]*\.){3}[0-9]*' | grep -v '127.0.0.1'
 ```
+* ApacheBench (ab) replacement: https://github.com/rakyll/hey
 
 ### File & directory
 
@@ -53,7 +54,9 @@ alias preview="fzf --height 40% --preview 'if file -i {}|grep -q binary; then fi
 * Make JSON greppable: https://github.com/TomNomNom/gron 
 * A cd command that learns - easily navigate directories from the command line  https://github.com/wting/autojump
 * tig: https://jonas.github.io/tig/doc/tig.1.html
-* Command-line productivity booster, offers quick access to files and directories, inspired by autojump, z and v. https://github.com/clvv/fasd
+* fasd: Command-line productivity booster, offers quick access to files and directories, inspired by autojump, z and v. https://github.com/clvv/fasd
+* Find files with SQL-like queries: https://github.com/jhspetersson/fselect
+* An advanced log file viewer for the small-scale http://lnav.org/
 
 ### Services 
 
@@ -69,6 +72,12 @@ Python -m SimpleHTTPServer
 ```
 npx live-server
 ```
+
+### oh-my-zsh
+
+alias -s rb=vim #opens ruby files in vim
+
+
 ### Funny
 
 * cowsay: cowsay is a configurable talking cow https://github.com/piuccio/cowsay
@@ -81,10 +90,12 @@ npx live-server
 ### Books
 
 * http://conqueringthecommandline.com/book
+* Data Science at the Command Line https://www.datascienceatthecommandline.com/
 
 
 ### references
 
+* https://remysharp.com/2018/08/23/cli-improved
 * Writing a Command Line Tool in Rust https://mattgathu.github.io/writing-cli-app-rust/
 * 5 Tips for Writing Small CLI Tools in Rust https://deterministic.space/rust-cli-tips.html
 * Command-line tools written in Rust https://www.reddit.com/r/rust/comments/70b74a/commandline_tools_written_in_rust/
