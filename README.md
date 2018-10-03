@@ -115,6 +115,7 @@ alias -s rb=vim #opens ruby files in vim
 ### references
 
 * awesome-shell: https://github.com/alebcay/awesome-shell
+* github bash topic: https://github.com/topics/bash
 * Mac setup: https://github.com/ptb/mac-setup
 * dotfiles: https://github.com/mathiasbynens/dotfiles
 * https://remysharp.com/2018/08/23/cli-improved
