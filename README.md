@@ -13,6 +13,9 @@ dotfiles & script
 * .justfile/justfile-java:  justfile for java
 * bootstrap.sh: for bootstrap
 
+### shell
+
+* Bash Automated Testing System https://github.com/sstephenson/bats
 
 ### commands
 
