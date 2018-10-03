@@ -1,6 +1,18 @@
 # command-tips
 
 
+### Structures 
+dotfiles & script
+
+* .aliases: aliases
+* .functions: custom functions
+* .exports: export
+* .sources: sources
+* brew.sh: install brew artifacts
+* .justfile/justfile-java:  justfile for java
+* bootstrap.sh: for bootstrap
+
+
 ### commands
 
 * exa: modern replacement for ls https://the.exa.website/
@@ -73,6 +85,12 @@ Python -m SimpleHTTPServer
 npx live-server
 ```
 
+### system
+
+* Mac App Store command line interface https://github.com/mas-cli/mas
+* Swiss Army Knife for macOS: https://github.com/rgcr/m-cli
+* SQL powered operating system instrumentation, monitoring, and analytics: https://osquery.io/
+
 ### oh-my-zsh
 
 alias -s rb=vim #opens ruby files in vim
@@ -95,6 +113,8 @@ alias -s rb=vim #opens ruby files in vim
 
 ### references
 
+* Mac setup: https://github.com/ptb/mac-setup
+* dotfiles: https://github.com/mathiasbynens/dotfiles
 * https://remysharp.com/2018/08/23/cli-improved
 * Writing a Command Line Tool in Rust https://mattgathu.github.io/writing-cli-app-rust/
 * 5 Tips for Writing Small CLI Tools in Rust https://deterministic.space/rust-cli-tips.html
