@@ -4,7 +4,8 @@
 ### Structures 
 dotfiles & script
 
-* .aliases: aliases
+* .aliases: https://github.com/sebglazebrook/aliases 
+* .aliases_legacy: tranditional alias
 * .functions: custom functions
 * .exports: export
 * .sources: sources
@@ -113,6 +114,7 @@ alias -s rb=vim #opens ruby files in vim
 
 ### references
 
+* awesome-shell: https://github.com/alebcay/awesome-shell
 * Mac setup: https://github.com/ptb/mac-setup
 * dotfiles: https://github.com/mathiasbynens/dotfiles
 * https://remysharp.com/2018/08/23/cli-improved
