@@ -102,6 +102,7 @@ alias -s rb=vim #opens ruby files in vim
 
 ### Funny
 
+* ANSI escape codes in pure bash https://github.com/fidian/ansi
 * cowsay: cowsay is a configurable talking cow https://github.com/piuccio/cowsay
 * toilet: Colored Text
 * lolcat: Rainbows and unicorns!
