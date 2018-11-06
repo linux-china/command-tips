@@ -43,6 +43,10 @@ ifconfig | grep -Eo 'inet (addr:)?([0-9]*\.){3}[0-9]*' | grep -Eo '([0-9]*\.){3}
 ```
 * ApacheBench (ab) replacement: https://github.com/rakyll/hey
 
+### Productivity
+
+* Git extras: https://github.com/tj/git-extras
+
 ### File & directory
 
 * find . -size +100M : find fine bigger than 100M
