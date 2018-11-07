@@ -56,6 +56,7 @@ ifconfig | grep -Eo 'inet (addr:)?([0-9]*\.){3}[0-9]*' | grep -Eo '([0-9]*\.){3}
 ```
 watch tail /var/log/auth.log
 ```
+* watchman: A file watching service https://facebook.github.io/watchman/
 * A cat(1) clone with wings.  https://github.com/sharkdp/bat brew install 
 * A program that allows you to count your code, quickly. cloc replacement https://github.com/Aaronepower/tokei 
 * fd is a simple, fast and user-friendly alternative to find.  https://github.com/sharkdp/fd 
