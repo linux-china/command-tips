@@ -44,6 +44,9 @@ ifconfig | grep -Eo 'inet (addr:)?([0-9]*\.){3}[0-9]*' | grep -Eo '([0-9]*\.){3}
 * ApacheBench (ab) replacement: https://github.com/rakyll/hey
 * Public URLs to internet from local: https://ngrok.com/
 
+### Kubernetes
+
+* Fast way to switch between clusters and namespaces in kubectl https://github.com/ahmetb/kubectx 
 ### Productivity
 
 * Git extras: https://github.com/tj/git-extras
