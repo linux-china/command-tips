@@ -73,7 +73,8 @@ watch tail /var/log/auth.log
 alias preview="fzf --height 40% --preview 'if file -i {}|grep -q binary; then file -b {}; else bat --color \"always\" --line-range :40 {}; fi'"
 ```
 * fastest terminal file manager  https://github.com/jarun/nnn
-* jq: https://stedolan.github.io/jq/
+* jq: lightweight and flexible command-line JSON processor https://stedolan.github.io/jq/
+* fx: Terminal JSON viewer https://github.com/antonmedv/fx
 * Monitor a process and trigger a notification https://github.com/variadico/noti
 * Run arbitrary commands when files change: http://www.entrproject.org
 * Make JSON greppable: https://github.com/TomNomNom/gron 
