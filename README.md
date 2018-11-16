@@ -127,6 +127,7 @@ alias -s rb=vim #opens ruby files in vim
 
 ### references
 
+* The Art of Command Line https://github.com/jlevy/the-art-of-command-line
 * awesome-shell: https://github.com/alebcay/awesome-shell
 * github bash topic: https://github.com/topics/bash
 * Mac setup: https://github.com/ptb/mac-setup
