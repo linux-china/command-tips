@@ -47,6 +47,7 @@ ifconfig | grep -Eo 'inet (addr:)?([0-9]*\.){3}[0-9]*' | grep -Eo '([0-9]*\.){3}
 ### Kubernetes
 
 * Fast way to switch between clusters and namespaces in kubectl https://github.com/ahmetb/kubectx 
+
 ### Productivity
 
 * Git extras: https://github.com/tj/git-extras
@@ -104,6 +105,7 @@ npx live-server
 * Mac App Store command line interface https://github.com/mas-cli/mas
 * Swiss Army Knife for macOS: https://github.com/rgcr/m-cli
 * SQL powered operating system instrumentation, monitoring, and analytics: https://osquery.io/
+* command-line system information tool: https://github.com/dylanaraps/neofetch
 
 ### oh-my-zsh
 
