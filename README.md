@@ -84,6 +84,7 @@ alias preview="fzf --height 40% --preview 'if file -i {}|grep -q binary; then fi
 * fasd: Command-line productivity booster, offers quick access to files and directories, inspired by autojump, z and v. https://github.com/clvv/fasd
 * Find files with SQL-like queries: https://github.com/jhspetersson/fselect
 * An advanced log file viewer for the small-scale http://lnav.org/
+* hexyl: A command-line hex viewer https://github.com/sharkdp/hexyl
 
 ### Services 
 
