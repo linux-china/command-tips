@@ -100,6 +100,7 @@ Python -m SimpleHTTPServer
 ```
 npx live-server
 ```
+* termtosvg: Record terminal sessions as SVG animations  https://github.com/nbedos/termtosvg
 
 ### system
 
@@ -115,6 +116,7 @@ alias -s rb=vim #opens ruby files in vim
 ### database
 
 * CLI for SQLite Databases with auto-completion and syntax highlighting: https://github.com/dbcli/litecli 
+
 ### Funny
 
 * cowsay: cowsay is a configurable talking cow https://github.com/piuccio/cowsay
