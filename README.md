@@ -85,6 +85,7 @@ alias preview="fzf --height 40% --preview 'if file -i {}|grep -q binary; then fi
 * Find files with SQL-like queries: https://github.com/jhspetersson/fselect
 * An advanced log file viewer for the small-scale http://lnav.org/
 * hexyl: A command-line hex viewer https://github.com/sharkdp/hexyl
+* Command line text processing: https://github.com/learnbyexample/Command-line-text-processing
 
 ### Services 
 
