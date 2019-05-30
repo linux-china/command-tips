@@ -43,6 +43,7 @@ ifconfig | grep -Eo 'inet (addr:)?([0-9]*\.){3}[0-9]*' | grep -Eo '([0-9]*\.){3}
 ```
 * ApacheBench (ab) replacement: https://github.com/rakyll/hey
 * Public URLs to internet from local: https://ngrok.com/
+* A terminal UI for tshark, inspired by Wireshark: https://github.com/gcla/termshark
 
 ### Kubernetes
 
@@ -109,6 +110,7 @@ npx live-server
 * Swiss Army Knife for macOS: https://github.com/rgcr/m-cli
 * SQL powered operating system instrumentation, monitoring, and analytics: https://osquery.io/
 * command-line system information tool: https://github.com/dylanaraps/neofetch
+* A terminal based graphical activity monitor inspired by gtop and vtop: https://github.com/cjbassi/gotop 
 
 ### oh-my-zsh
 
