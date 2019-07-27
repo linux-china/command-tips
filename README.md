@@ -103,6 +103,7 @@ Python -m SimpleHTTPServer
 npx live-server
 ```
 * termtosvg: Record terminal sessions as SVG animations  https://github.com/nbedos/termtosvg
+* direnv – unclutter your .profile  https://direnv.net/
 
 ### system
 
