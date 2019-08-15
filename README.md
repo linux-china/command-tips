@@ -147,3 +147,5 @@ alias -s rb=vim #opens ruby files in vim
 * Writing a Command Line Tool in Rust https://mattgathu.github.io/writing-cli-app-rust/
 * 5 Tips for Writing Small CLI Tools in Rust https://deterministic.space/rust-cli-tips.html
 * Command-line tools written in Rust https://www.reddit.com/r/rust/comments/70b74a/commandline_tools_written_in_rust/
+* Delete Files Older Than X: https://www.baeldung.com/linux/delete-files-older-than
+
