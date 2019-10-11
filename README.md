@@ -52,6 +52,7 @@ ifconfig | grep -Eo 'inet (addr:)?([0-9]*\.){3}[0-9]*' | grep -Eo '([0-9]*\.){3}
 ### Productivity
 
 * Git extras: https://github.com/tj/git-extras
+* https://github.com/arzzen/git-quick-stats
 
 ### File & directory
 
