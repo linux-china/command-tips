@@ -26,6 +26,7 @@ dotfiles & script
 * tldr: Simplified and community-driven man pages https://github.com/tldr-pages/tldr
 * nl : Outputs the content of text file with lines Numbered
 * tree : Prints files and folders in tree like fashion, recursively
+* broot: A new way to see and navigate directory trees https://github.com/Canop/broot
 * Pstree : Prints running processes with child processes, recursively
 * lsof -iTCP:80 -sTCP:LISTEN. The script, outputs all the service/process using port 80.
 * htop:  an interactive process viewer for Unix https://hisham.hm/htop/
