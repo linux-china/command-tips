@@ -53,7 +53,9 @@ ifconfig | grep -Eo 'inet (addr:)?([0-9]*\.){3}[0-9]*' | grep -Eo '([0-9]*\.){3}
 ### Productivity
 
 * Git extras: https://github.com/tj/git-extras
-* https://github.com/arzzen/git-quick-stats
+* git-quick-stats:  https://github.com/arzzen/git-quick-stats
+* moro: Simple CLI tool for tracking work hours https://github.com/albacoretuna/moro
+* taskwarrior: manages your TODO list from the command line brew install task  https://taskwarrior.org/
 
 ### File & directory
 
@@ -89,6 +91,7 @@ alias preview="fzf --height 40% --preview 'if file -i {}|grep -q binary; then fi
 * An advanced log file viewer for the small-scale http://lnav.org/
 * hexyl: A command-line hex viewer https://github.com/sharkdp/hexyl
 * Command line text processing: https://github.com/learnbyexample/Command-line-text-processing
+* ncdu: ncduis a disk utility for Unix systems
 
 ### Services 
 
