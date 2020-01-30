@@ -117,6 +117,7 @@ npx live-server
 * SQL powered operating system instrumentation, monitoring, and analytics: https://osquery.io/
 * command-line system information tool: https://github.com/dylanaraps/neofetch
 * A terminal based graphical activity monitor inspired by gtop and vtop: https://github.com/cjbassi/gotop 
+* BitBar: Put anything in your Mac OS X menu bar https://getbitbar.com/
 
 ### oh-my-zsh
 
