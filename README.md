@@ -144,6 +144,7 @@ alias -s rb=vim #opens ruby files in vim
 
 ### references
 
+* How to Set Up Your MacBook for Web Development in 2020: https://medium.com/better-programming/setting-up-your-mac-for-web-development-in-2020-659f5588b883
 * The Art of Command Line https://github.com/jlevy/the-art-of-command-line
 * awesome-shell: https://github.com/alebcay/awesome-shell
 * github bash topic: https://github.com/topics/bash
