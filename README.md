@@ -118,6 +118,7 @@ npx live-server
 * command-line system information tool: https://github.com/dylanaraps/neofetch
 * A terminal based graphical activity monitor inspired by gtop and vtop: https://github.com/cjbassi/gotop 
 * BitBar: Put anything in your Mac OS X menu bar https://getbitbar.com/
+* Beautiful calculator app for Mac: https://numi.app/ 
 
 ### oh-my-zsh
 
