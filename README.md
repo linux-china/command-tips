@@ -72,6 +72,7 @@ watch tail /var/log/auth.log
 * ripgrep recursively searches directories for a regex pattern  https://github.com/BurntSushi/ripgrep 
 * Project templates in rust https://github.com/vmchale/project-init
 * Just a command runner  https://github.com/casey/just
+* cargo-make: Rust task runner and build tool  https://github.com/sagiegurari/cargo-make
 * A fast CSV command line toolkit written in Rust. https://github.com/BurntSushi/xsv
 * Executes commands in response to file modifications https://github.com/watchexec/watchexec
 * command-line fuzzy finder:  https://github.com/junegunn/fzf  
@@ -119,6 +120,23 @@ npx live-server
 * A terminal based graphical activity monitor inspired by gtop and vtop: https://github.com/cjbassi/gotop 
 * BitBar: Put anything in your Mac OS X menu bar https://getbitbar.com/
 * Beautiful calculator app for Mac: https://numi.app/ 
+* procs: modern replacement for ps https://github.com/dalance/procs
+* pier: A Linux script management CLI https://github.com/pier-cli/pier
+* Scriptisto:  language-agnostic "shebang interpreter" that enables you to write scripts in compiled languages  https://github.com/igor-petruk/scriptisto
+* hyperfine: command-line benchmarking tool  https://github.com/sharkdp/hyperfine
+* sd: Intuitive find & replace CLI (sed alternative)   https://github.com/chmln/sd 
+* ytop and bottom: https://github.com/cjbassi/ytop https://github.com/ClementTsang/bottom
+
+
+### Code
+
+* Source-highlight: https://www.gnu.org/software/src-highlite/source-highlight.html 
+* gitignore:  https://www.gitignore.io/ 
+* tokei: https://github.com/XAMPPRocky/tokei
+* gitui: terminal-ui for git https://github.com/extrawurst/gitui
+
+### Rust
+
 
 ### oh-my-zsh
 
