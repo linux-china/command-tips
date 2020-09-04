@@ -134,6 +134,7 @@ npx live-server
 * gitignore:  https://www.gitignore.io/ 
 * tokei: https://github.com/XAMPPRocky/tokei
 * gitui: terminal-ui for git https://github.com/extrawurst/gitui
+* git-stats: https://github.com/IonicaBizau/git-stats
 
 ### Rust
 
