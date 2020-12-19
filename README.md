@@ -192,3 +192,4 @@ alias -s rb=vim #opens ruby files in vim
 * The Ultimate Guide to Your Terminal Makeover: https://towardsdatascience.com/the-ultimate-guide-to-your-terminal-makeover-e11f9b87ac99
 * 7 Awesome Rust-powered Command-line Utilities: https://towardsdatascience.com/awesome-rust-powered-command-line-utilities-b5359c38692
 * Command Line Interface Guidelines: https://clig.dev/
+* 12 Factor CLI Apps: https://medium.com/@jdxcode/12-factor-cli-apps-dd3c227a0e46
