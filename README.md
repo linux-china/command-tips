@@ -147,6 +147,19 @@ alias -s rb=vim #opens ruby files in vim
 
 * CLI for SQLite Databases with auto-completion and syntax highlighting: https://github.com/dbcli/litecli 
 
+### CLI frameworks
+
+* Go: Cobra, cli
+* Node: oclif, Commander.js clap.js
+* Deno: yargs , cmd
+* Python: Click, Typer
+* Ruby: TTY, commander, GLI
+* PHP: console
+* Java: Picocli, JCommander, Clikt
+* Rust: clap-rs, pico-args, paw
+* C++: gflags, cli, docopt.cpp
+
+
 ### Funny
 
 * cowsay: cowsay is a configurable talking cow https://github.com/piuccio/cowsay
@@ -178,4 +191,4 @@ alias -s rb=vim #opens ruby files in vim
 * Most Useful Command Line Tools: 50 Cool Tools to Improve Your Workflow, Boost Productivity, and More: https://stackify.com/top-command-line-tools/
 * The Ultimate Guide to Your Terminal Makeover: https://towardsdatascience.com/the-ultimate-guide-to-your-terminal-makeover-e11f9b87ac99
 * 7 Awesome Rust-powered Command-line Utilities: https://towardsdatascience.com/awesome-rust-powered-command-line-utilities-b5359c38692
-
+* Command Line Interface Guidelines: https://clig.dev/
