@@ -193,3 +193,5 @@ alias -s rb=vim #opens ruby files in vim
 * 7 Awesome Rust-powered Command-line Utilities: https://towardsdatascience.com/awesome-rust-powered-command-line-utilities-b5359c38692
 * Command Line Interface Guidelines: https://clig.dev/
 * 12 Factor CLI Apps: https://medium.com/@jdxcode/12-factor-cli-apps-dd3c227a0e46
+* The netcat Command in Linux: https://www.baeldung.com/linux/netcat-command
+
