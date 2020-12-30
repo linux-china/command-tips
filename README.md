@@ -16,6 +16,9 @@ dotfiles & script
 ### shell
 
 * Bash Automated Testing System https://github.com/sstephenson/bats
+* Just a command runner  https://github.com/casey/just
+* pueue: Manage your shell commands https://github.com/Nukesor/pueue
+
 
 ### commands
 
@@ -71,7 +74,6 @@ watch tail /var/log/auth.log
 * fd is a simple, fast and user-friendly alternative to find.  https://github.com/sharkdp/fd 
 * ripgrep recursively searches directories for a regex pattern  https://github.com/BurntSushi/ripgrep 
 * Project templates in rust https://github.com/vmchale/project-init
-* Just a command runner  https://github.com/casey/just
 * cargo-make: Rust task runner and build tool  https://github.com/sagiegurari/cargo-make
 * A fast CSV command line toolkit written in Rust. https://github.com/BurntSushi/xsv
 * Executes commands in response to file modifications https://github.com/watchexec/watchexec
