@@ -23,6 +23,7 @@ dotfiles & script
 ### commands
 
 * exa: modern replacement for ls https://the.exa.website/
+* lsd: The next gen ls command https://github.com/Peltoche/lsd
 * ack: a tool like grep, optimized for programmers https://beyondgrep.com/
 * ag: A code-searching tool similar to ack, but faster https://github.com/ggreer/the_silver_searcher
 * mtr : A command which is a combination of ‘ping’ and ‘traceroute’ command.
