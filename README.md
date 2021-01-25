@@ -130,6 +130,10 @@ npx live-server
 * sd: Intuitive find & replace CLI (sed alternative)   https://github.com/chmln/sd 
 * ytop and bottom: https://github.com/cjbassi/ytop https://github.com/ClementTsang/bottom
 
+### tools
+
+* Taskworrior: manages your TODO list from the command line  https://taskwarrior.org/
+* Timewarrior: tracks time from the command line https://timewarrior.net/
 
 ### Code
 
