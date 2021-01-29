@@ -181,6 +181,9 @@ alias -s rb=vim #opens ruby files in vim
 * http://conqueringthecommandline.com/book
 * Data Science at the Command Line https://www.datascienceatthecommandline.com/
 
+### Shell
+
+* The Ultimate Programmer’s Guide to Bash Scripting: https://medium.com/better-programming/the-ultimate-programmers-guide-to-bash-scripting-2d11d4e6e978
 
 ### references
 
