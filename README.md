@@ -185,6 +185,7 @@ alias -s rb=vim #opens ruby files in vim
 
 * The Ultimate Programmer’s Guide to Bash Scripting: https://medium.com/better-programming/the-ultimate-programmers-guide-to-bash-scripting-2d11d4e6e978
 * 27 Simple Bash Scripting Tips for Beginners: https://medium.com/better-programming/27-simple-bash-scripting-tips-for-beginners-d6764c977546
+* pure bash bible: https://github.com/dylanaraps/pure-bash-bible
 
 ### references
 
