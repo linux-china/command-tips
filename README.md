@@ -190,6 +190,8 @@ alias -s rb=vim #opens ruby files in vim
 
 ### references
 
+* Modern Unix: https://github.com/ibraheemdev/modern-unix
+* Awesome Alternatives in Rust: https://github.com/TaKO8Ki/awesome-alternatives-in-rust
 * How to Set Up Your MacBook for Web Development in 2020: https://medium.com/better-programming/setting-up-your-mac-for-web-development-in-2020-659f5588b883
 * The Art of Command Line https://github.com/jlevy/the-art-of-command-line
 * awesome-shell: https://github.com/alebcay/awesome-shell
