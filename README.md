@@ -63,6 +63,7 @@ ifconfig | grep -Eo 'inet (addr:)?([0-9]*\.){3}[0-9]*' | grep -Eo '([0-9]*\.){3}
 
 ### File & directory
 
+* rip (Rm ImProved) https://github.com/nivekuil/rip 
 * find . -size +100M : find fine bigger than 100M
 * gshred or srm: Delete File Permanently 
 * Watch Logs in Real-Time
