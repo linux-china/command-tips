@@ -188,6 +188,7 @@ alias -s rb=vim #opens ruby files in vim
 * 27 Simple Bash Scripting Tips for Beginners: https://medium.com/better-programming/27-simple-bash-scripting-tips-for-beginners-d6764c977546
 * pure bash bible: https://github.com/dylanaraps/pure-bash-bible
 * 13 Fantastic Learning Tools and Resources for Bash Scripting: https://medium.com/better-programming/13-fantastic-learning-tools-and-resources-for-bash-scripting-51a6de98015c
+* Bash string manipulation cheatsheet: https://gist.github.com/magnetikonline/90d6fe30fc247ef110a1
 
 ### references
 
