@@ -35,6 +35,7 @@ dotfiles & script
 * lsof -iTCP:80 -sTCP:LISTEN. The script, outputs all the service/process using port 80.
 * htop:  an interactive process viewer for Unix https://hisham.hm/htop/
 * Glances an Eye on your system. A top/htop alternative https://github.com/nicolargo/glances
+* await: run list of commands in parallel and waits for their termination https://github.com/slavaGanzin/await
 * direct normal output and errors to /dev/null
 ```
 xxxxx  > /dev/null 2>&1
