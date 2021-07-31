@@ -131,6 +131,7 @@ npx live-server
 * hyperfine: command-line benchmarking tool  https://github.com/sharkdp/hyperfine
 * sd: Intuitive find & replace CLI (sed alternative)   https://github.com/chmln/sd 
 * ytop and bottom: https://github.com/cjbassi/ytop https://github.com/ClementTsang/bottom
+* bpytop: Linux/OSX/FreeBSD resource monitor https://github.com/aristocratos/bpytop
 
 ### tools
 
