@@ -61,6 +61,7 @@ ifconfig | grep -Eo 'inet (addr:)?([0-9]*\.){3}[0-9]*' | grep -Eo '([0-9]*\.){3}
 * git-quick-stats:  https://github.com/arzzen/git-quick-stats
 * moro: Simple CLI tool for tracking work hours https://github.com/albacoretuna/moro
 * taskwarrior: manages your TODO list from the command line brew install task  https://taskwarrior.org/
+* asciinema:  Record and share your terminal sessions, the right way https://asciinema.org/
 
 ### File & directory
 
