@@ -35,6 +35,7 @@ dotfiles & script
 * lsof -iTCP:80 -sTCP:LISTEN. The script, outputs all the service/process using port 80.
 * htop:  an interactive process viewer for Unix https://hisham.hm/htop/
 * Glances an Eye on your system. A top/htop alternative https://github.com/nicolargo/glances
+* await: run list of commands in parallel and waits for their termination https://github.com/slavaGanzin/await
 * direct normal output and errors to /dev/null
 ```
 xxxxx  > /dev/null 2>&1
@@ -60,6 +61,7 @@ ifconfig | grep -Eo 'inet (addr:)?([0-9]*\.){3}[0-9]*' | grep -Eo '([0-9]*\.){3}
 * git-quick-stats:  https://github.com/arzzen/git-quick-stats
 * moro: Simple CLI tool for tracking work hours https://github.com/albacoretuna/moro
 * taskwarrior: manages your TODO list from the command line brew install task  https://taskwarrior.org/
+* asciinema:  Record and share your terminal sessions, the right way https://asciinema.org/
 
 ### File & directory
 
@@ -130,6 +132,7 @@ npx live-server
 * hyperfine: command-line benchmarking tool  https://github.com/sharkdp/hyperfine
 * sd: Intuitive find & replace CLI (sed alternative)   https://github.com/chmln/sd 
 * ytop and bottom: https://github.com/cjbassi/ytop https://github.com/ClementTsang/bottom
+* bpytop: Linux/OSX/FreeBSD resource monitor https://github.com/aristocratos/bpytop
 
 ### tools
 
@@ -189,6 +192,7 @@ alias -s rb=vim #opens ruby files in vim
 * 27 Simple Bash Scripting Tips for Beginners: https://medium.com/better-programming/27-simple-bash-scripting-tips-for-beginners-d6764c977546
 * pure bash bible: https://github.com/dylanaraps/pure-bash-bible
 * 13 Fantastic Learning Tools and Resources for Bash Scripting: https://medium.com/better-programming/13-fantastic-learning-tools-and-resources-for-bash-scripting-51a6de98015c
+* Bash string manipulation cheatsheet: https://gist.github.com/magnetikonline/90d6fe30fc247ef110a1
 
 ### references
 
