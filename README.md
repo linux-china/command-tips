@@ -1,10 +1,10 @@
 # command-tips
 
 
-### Structures 
+### Structures
 dotfiles & script
 
-* .aliases: https://github.com/sebglazebrook/aliases 
+* .aliases: https://github.com/sebglazebrook/aliases
 * .aliases_legacy: tranditional alias
 * .functions: custom functions
 * .exports: export
@@ -18,7 +18,7 @@ dotfiles & script
 * Bash Automated Testing System https://github.com/sstephenson/bats
 * Just a command runner  https://github.com/casey/just
 * pueue: Manage your shell commands https://github.com/Nukesor/pueue
-
+* desk: A lightweight workspace manager for the shell - https://github.com/jamesob/desk
 
 ### commands
 
@@ -36,6 +36,7 @@ dotfiles & script
 * htop:  an interactive process viewer for Unix https://hisham.hm/htop/
 * Glances an Eye on your system. A top/htop alternative https://github.com/nicolargo/glances
 * await: run list of commands in parallel and waits for their termination https://github.com/slavaGanzin/await
+* gum: a tool for glamorous shell scripts - https://github.com/charmbracelet/gum
 * direct normal output and errors to /dev/null
 ```
 xxxxx  > /dev/null 2>&1
@@ -53,7 +54,7 @@ ifconfig | grep -Eo 'inet (addr:)?([0-9]*\.){3}[0-9]*' | grep -Eo '([0-9]*\.){3}
 
 ### Kubernetes
 
-* Fast way to switch between clusters and namespaces in kubectl https://github.com/ahmetb/kubectx 
+* Fast way to switch between clusters and namespaces in kubectl https://github.com/ahmetb/kubectx
 
 ### Productivity
 
@@ -62,26 +63,27 @@ ifconfig | grep -Eo 'inet (addr:)?([0-9]*\.){3}[0-9]*' | grep -Eo '([0-9]*\.){3}
 * moro: Simple CLI tool for tracking work hours https://github.com/albacoretuna/moro
 * taskwarrior: manages your TODO list from the command line brew install task  https://taskwarrior.org/
 * asciinema:  Record and share your terminal sessions, the right way https://asciinema.org/
+* task-keeper: A cli to manage tasks from different task runners or package managers - https://github.com/linux-china/task-keeper
 
 ### File & directory
 
-* rip (Rm ImProved) https://github.com/nivekuil/rip 
+* rip (Rm ImProved) https://github.com/nivekuil/rip
 * find . -size +100M : find fine bigger than 100M
-* gshred or srm: Delete File Permanently 
+* gshred or srm: Delete File Permanently
 * Watch Logs in Real-Time
 ```
 watch tail /var/log/auth.log
 ```
 * watchman: A file watching service https://facebook.github.io/watchman/
-* A cat(1) clone with wings.  https://github.com/sharkdp/bat brew install 
-* A program that allows you to count your code, quickly. cloc replacement https://github.com/Aaronepower/tokei 
-* fd is a simple, fast and user-friendly alternative to find.  https://github.com/sharkdp/fd 
-* ripgrep recursively searches directories for a regex pattern  https://github.com/BurntSushi/ripgrep 
+* A cat(1) clone with wings.  https://github.com/sharkdp/bat brew install
+* A program that allows you to count your code, quickly. cloc replacement https://github.com/Aaronepower/tokei
+* fd is a simple, fast and user-friendly alternative to find.  https://github.com/sharkdp/fd
+* ripgrep recursively searches directories for a regex pattern  https://github.com/BurntSushi/ripgrep
 * Project templates in rust https://github.com/vmchale/project-init
 * cargo-make: Rust task runner and build tool  https://github.com/sagiegurari/cargo-make
 * A fast CSV command line toolkit written in Rust. https://github.com/BurntSushi/xsv
 * Executes commands in response to file modifications https://github.com/watchexec/watchexec
-* command-line fuzzy finder:  https://github.com/junegunn/fzf  
+* command-line fuzzy finder:  https://github.com/junegunn/fzf
 ```
 alias preview="fzf --height 40% --preview 'if file -i {}|grep -q binary; then file -b {}; else bat --color \"always\" --line-range :40 {}; fi'"
 ```
@@ -90,7 +92,7 @@ alias preview="fzf --height 40% --preview 'if file -i {}|grep -q binary; then fi
 * fx: Terminal JSON viewer https://github.com/antonmedv/fx
 * Monitor a process and trigger a notification https://github.com/variadico/noti
 * Run arbitrary commands when files change: http://www.entrproject.org
-* Make JSON greppable: https://github.com/TomNomNom/gron 
+* Make JSON greppable: https://github.com/TomNomNom/gron
 * A cd command that learns - easily navigate directories from the command line  https://github.com/wting/autojump
 * tig: https://jonas.github.io/tig/doc/tig.1.html
 * fasd: Command-line productivity booster, offers quick access to files and directories, inspired by autojump, z and v. https://github.com/clvv/fasd
@@ -100,9 +102,9 @@ alias preview="fzf --height 40% --preview 'if file -i {}|grep -q binary; then fi
 * Command line text processing: https://github.com/learnbyexample/Command-line-text-processing
 * ncdu: ncduis a disk utility for Unix systems
 
-### Services 
+### Services
 
-* Echo Service: 
+* Echo Service:
 ```
 socat -v tcp-l:1234,fork exec:'/bin/cat'
 ```
@@ -123,14 +125,14 @@ npx live-server
 * Swiss Army Knife for macOS: https://github.com/rgcr/m-cli
 * SQL powered operating system instrumentation, monitoring, and analytics: https://osquery.io/
 * command-line system information tool: https://github.com/dylanaraps/neofetch
-* A terminal based graphical activity monitor inspired by gtop and vtop: https://github.com/cjbassi/gotop 
+* A terminal based graphical activity monitor inspired by gtop and vtop: https://github.com/cjbassi/gotop
 * BitBar: Put anything in your Mac OS X menu bar https://getbitbar.com/
-* Beautiful calculator app for Mac: https://numi.app/ 
+* Beautiful calculator app for Mac: https://numi.app/
 * procs: modern replacement for ps https://github.com/dalance/procs
 * pier: A Linux script management CLI https://github.com/pier-cli/pier
 * Scriptisto:  language-agnostic "shebang interpreter" that enables you to write scripts in compiled languages  https://github.com/igor-petruk/scriptisto
 * hyperfine: command-line benchmarking tool  https://github.com/sharkdp/hyperfine
-* sd: Intuitive find & replace CLI (sed alternative)   https://github.com/chmln/sd 
+* sd: Intuitive find & replace CLI (sed alternative)   https://github.com/chmln/sd
 * ytop and bottom: https://github.com/cjbassi/ytop https://github.com/ClementTsang/bottom
 * bpytop: Linux/OSX/FreeBSD resource monitor https://github.com/aristocratos/bpytop
 
@@ -141,8 +143,8 @@ npx live-server
 
 ### Code
 
-* Source-highlight: https://www.gnu.org/software/src-highlite/source-highlight.html 
-* gitignore:  https://www.gitignore.io/ 
+* Source-highlight: https://www.gnu.org/software/src-highlite/source-highlight.html
+* gitignore:  https://www.gitignore.io/
 * tokei: https://github.com/XAMPPRocky/tokei
 * gitui: terminal-ui for git https://github.com/extrawurst/gitui
 * git-stats: https://github.com/IonicaBizau/git-stats
@@ -156,7 +158,7 @@ alias -s rb=vim #opens ruby files in vim
 
 ### database
 
-* CLI for SQLite Databases with auto-completion and syntax highlighting: https://github.com/dbcli/litecli 
+* CLI for SQLite Databases with auto-completion and syntax highlighting: https://github.com/dbcli/litecli
 
 ### CLI frameworks
 
@@ -178,7 +180,7 @@ alias -s rb=vim #opens ruby files in vim
 * toilet: Colored Text
 * lolcat: Rainbows and unicorns!
 * watch -t -n1 "date +%T|toilet"
-* look: Check for Spelling of Words in Linux 
+* look: Check for Spelling of Words in Linux
 * say: english words pronounce
 
 ### Books
