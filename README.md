@@ -22,6 +22,7 @@ dotfiles & script
 
 ### commands
 
+* cfonts: a silly little command line tool for sexy ANSI fonts in the console - https://github.com/dominikwilkowski/cfonts
 * exa: modern replacement for ls https://the.exa.website/
 * lsd: The next gen ls command https://github.com/Peltoche/lsd
 * ack: a tool like grep, optimized for programmers https://beyondgrep.com/
