@@ -158,7 +158,9 @@ alias -s rb=vim #opens ruby files in vim
 
 ### database
 
-* CLI for SQLite Databases with auto-completion and syntax highlighting: https://github.com/dbcli/litecli
+* [litecli](https://github.com/dbcli/litecli): CLI for SQLite Databases with auto-completion and syntax highlighting
+* [rsql](https://github.com/theseus-rs/rsql): command line interface for databases
+* [sq](https://github.com/neilotoole/sq): command line tool that provides jq-style access to structured data sources
 
 ### CLI frameworks
 
