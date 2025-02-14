@@ -102,6 +102,9 @@ alias preview="fzf --height 40% --preview 'if file -i {}|grep -q binary; then fi
 * hexyl: A command-line hex viewer https://github.com/sharkdp/hexyl
 * Command line text processing: https://github.com/learnbyexample/Command-line-text-processing
 * ncdu: ncduis a disk utility for Unix systems
+* [qsv](https://github.com/dathere/qsv): Blazing-fast Data-Wrangling toolkit
+* [xan](https://github.com/medialab/xan): command line tool that can be used to process CSV files directly from the shell
+
 
 ### Services
 
@@ -149,6 +152,9 @@ npx live-server
 * tokei: https://github.com/XAMPPRocky/tokei
 * gitui: terminal-ui for git https://github.com/extrawurst/gitui
 * git-stats: https://github.com/IonicaBizau/git-stats
+* [argc](https://github.com/sigoden/argc): Bash shell framework
+* [zawk](https://github.com/linux-china/zawk): awk implemented by Rust
+* [Bun](https://bun.sh/): a fast JavaScript runtime
 
 ### Rust
 
@@ -162,6 +168,7 @@ alias -s rb=vim #opens ruby files in vim
 * [litecli](https://github.com/dbcli/litecli): CLI for SQLite Databases with auto-completion and syntax highlighting
 * [rsql](https://github.com/theseus-rs/rsql): command line interface for databases
 * [sq](https://github.com/neilotoole/sq): command line tool that provides jq-style access to structured data sources
+* [DuckDB](https://duckdb.org/): a fast olap embedded database
 
 ### CLI frameworks
 
