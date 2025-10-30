@@ -19,9 +19,11 @@ dotfiles & script
 * Just a command runner  https://github.com/casey/just
 * pueue: Manage your shell commands https://github.com/Nukesor/pueue
 * desk: A lightweight workspace manager for the shell - https://github.com/jamesob/desk
+* Nushell:
 
 ### commands
 
+* minisign: A simple tool for signing files and verifying signatures
 * cfonts: a silly little command line tool for sexy ANSI fonts in the console - https://github.com/dominikwilkowski/cfonts
 * exa: modern replacement for ls https://the.exa.website/
 * lsd: The next gen ls command https://github.com/Peltoche/lsd
@@ -30,7 +32,7 @@ dotfiles & script
 * mtr : A command which is a combination of ‘ping’ and ‘traceroute’ command.
 * tldr: Simplified and community-driven man pages https://github.com/tldr-pages/tldr
 * nl : Outputs the content of text file with lines Numbered
-* tree : Prints files and folders in tree like fashion, recursively
+* [tree](https://gitlab.com/OldManProgrammer/unix-tree): Prints files and folders in tree like fashion, recursively
 * broot: A new way to see and navigate directory trees https://github.com/Canop/broot
 * Pstree : Prints running processes with child processes, recursively
 * lsof -iTCP:80 -sTCP:LISTEN. The script, outputs all the service/process using port 80.
@@ -52,6 +54,8 @@ ifconfig | grep -Eo 'inet (addr:)?([0-9]*\.){3}[0-9]*' | grep -Eo '([0-9]*\.){3}
 * ApacheBench (ab) replacement: https://github.com/rakyll/hey
 * Public URLs to internet from local: https://ngrok.com/
 * A terminal UI for tshark, inspired by Wireshark: https://github.com/gcla/termshark
+* httpie: A modern, user-friendly command-line HTTP client for the API era.
+
 
 ### Kubernetes
 
@@ -227,4 +231,3 @@ alias -s rb=vim #opens ruby files in vim
 * Command Line Interface Guidelines: https://clig.dev/
 * 12 Factor CLI Apps: https://medium.com/@jdxcode/12-factor-cli-apps-dd3c227a0e46
 * The netcat Command in Linux: https://www.baeldung.com/linux/netcat-command
-
