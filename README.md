@@ -67,6 +67,7 @@ ifconfig | grep -Eo 'inet (addr:)?([0-9]*\.){3}[0-9]*' | grep -Eo '([0-9]*\.){3}
 * [g](https://github.com/voidint/g): Golang Version Manager
 * [jbang](https://www.jbang.dev/)
 * [wukong](https://github.com/linux-china/wukong): a command-line toolchain for Java with Rust
+* [dotenvx](https://github.com/linux-china/dotenvx-rs): Dotenvx Rust SDK/CLI: make .env safe
 
 ### Kubernetes
 
