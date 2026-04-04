@@ -93,6 +93,7 @@ watch tail /var/log/auth.log
 ```
 * watchman: A file watching service https://facebook.github.io/watchman/
 * A cat(1) clone with wings.  https://github.com/sharkdp/bat brew install
+* [Lumis](https://github.com/leandrocp/lumis): Syntax Highlighter powered by Tree-sitter and Neovim themes.
 * A program that allows you to count your code, quickly. cloc replacement https://github.com/Aaronepower/tokei
 * fd is a simple, fast and user-friendly alternative to find.  https://github.com/sharkdp/fd
 * ripgrep recursively searches directories for a regex pattern  https://github.com/BurntSushi/ripgrep
@@ -201,6 +202,12 @@ alias -s rb=vim #opens ruby files in vim
 * Rust: clap-rs, pico-args, paw
 * C++: gflags, cli, docopt.cpp
 
+
+### AI related
+
+* [shell-ai](https://lib.rs/crates/shell-ai): AI-assisted shell commands: create shell commands from natural language, or have them explained
+* [qodercli](https://qoder.com/)
+* [llm](https://github.com/simonw/LLM): Access large language models from the command-line
 
 ### Funny
 
