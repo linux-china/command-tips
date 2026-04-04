@@ -19,7 +19,8 @@ dotfiles & script
 * Just a command runner  https://github.com/casey/just
 * pueue: Manage your shell commands https://github.com/Nukesor/pueue
 * desk: A lightweight workspace manager for the shell - https://github.com/jamesob/desk
-* Nushell:
+* Nushell: https://github.com/nushell/nushell
+* [rtk](https://github.com/rtk-ai/rtk/): CLI proxy that reduces LLM token consumption by 60-90% on common dev commands.
 
 ### commands
 
@@ -35,6 +36,7 @@ dotfiles & script
 * [tree](https://gitlab.com/OldManProgrammer/unix-tree): Prints files and folders in tree like fashion, recursively
 * broot: A new way to see and navigate directory trees https://github.com/Canop/broot
 * Pstree : Prints running processes with child processes, recursively
+* [witr](https://github.com/pranshuparmar/witr): Why is this running?
 * lsof -iTCP:80 -sTCP:LISTEN. The script, outputs all the service/process using port 80.
 * htop:  an interactive process viewer for Unix https://hisham.hm/htop/
 * Glances an Eye on your system. A top/htop alternative https://github.com/nicolargo/glances
@@ -56,6 +58,15 @@ ifconfig | grep -Eo 'inet (addr:)?([0-9]*\.){3}[0-9]*' | grep -Eo '([0-9]*\.){3}
 * A terminal UI for tshark, inspired by Wireshark: https://github.com/gcla/termshark
 * httpie: A modern, user-friendly command-line HTTP client for the API era.
 
+### project/env manager
+
+* [uv](https://github.com/astral-sh/uv)
+* [volta](https://volta.sh/)
+* [rv](https://github.com/spinel-coop/rv)
+* [mise](https://mise.jdx.dev/)
+* [g](https://github.com/voidint/g): Golang Version Manager
+* [jbang](https://www.jbang.dev/)
+* [wukong](https://github.com/linux-china/wukong): a command-line toolchain for Java with Rust
 
 ### Kubernetes
 
@@ -84,6 +95,7 @@ watch tail /var/log/auth.log
 * A program that allows you to count your code, quickly. cloc replacement https://github.com/Aaronepower/tokei
 * fd is a simple, fast and user-friendly alternative to find.  https://github.com/sharkdp/fd
 * ripgrep recursively searches directories for a regex pattern  https://github.com/BurntSushi/ripgrep
+* [ast-grep](https://github.com/ast-grep/ast-grep): A CLI tool for code structural search, lint and rewriting. Written in Rust
 * Project templates in rust https://github.com/vmchale/project-init
 * cargo-make: Rust task runner and build tool  https://github.com/sagiegurari/cargo-make
 * A fast CSV command line toolkit written in Rust. https://github.com/BurntSushi/xsv
@@ -143,6 +155,7 @@ npx live-server
 * sd: Intuitive find & replace CLI (sed alternative)   https://github.com/chmln/sd
 * ytop and bottom: https://github.com/cjbassi/ytop https://github.com/ClementTsang/bottom
 * bpytop: Linux/OSX/FreeBSD resource monitor https://github.com/aristocratos/bpytop
+* [zoxide](https://github.com/ajeetdsouza/zoxide): A smarter cd command. Supports all major shells.
 
 ### tools
 
@@ -173,6 +186,7 @@ alias -s rb=vim #opens ruby files in vim
 * [rsql](https://github.com/theseus-rs/rsql): command line interface for databases
 * [sq](https://github.com/neilotoole/sq): command line tool that provides jq-style access to structured data sources
 * [DuckDB](https://duckdb.org/): a fast olap embedded database
+* [usql](https://github.com/xo/usql): Universal command-line interface for SQL databases
 
 ### CLI frameworks
 
