@@ -24,7 +24,7 @@ dotfiles & script
 
 ### commands
 
-* minisign: A simple tool for signing files and verifying signatures
+* [minisign](https://github.com/jedisct1/minisign): A simple tool for signing files and verifying signatures
 * cfonts: a silly little command line tool for sexy ANSI fonts in the console - https://github.com/dominikwilkowski/cfonts
 * exa: modern replacement for ls https://the.exa.website/
 * lsd: The next gen ls command https://github.com/Peltoche/lsd
@@ -68,6 +68,7 @@ ifconfig | grep -Eo 'inet (addr:)?([0-9]*\.){3}[0-9]*' | grep -Eo '([0-9]*\.){3}
 * [jbang](https://www.jbang.dev/)
 * [wukong](https://github.com/linux-china/wukong): a command-line toolchain for Java with Rust
 * [dotenvx](https://github.com/linux-china/dotenvx-rs): Dotenvx Rust SDK/CLI: make .env safe
+* [Mago](https://github.com/carthage-software/mago): a toolchain for PHP that aims to provide a set of tools to help developers write better code
 
 ### Kubernetes
 
@@ -122,6 +123,8 @@ alias preview="fzf --height 40% --preview 'if file -i {}|grep -q binary; then fi
 * ncdu: ncduis a disk utility for Unix systems
 * [qsv](https://github.com/dathere/qsv): Blazing-fast Data-Wrangling toolkit
 * [xan](https://github.com/medialab/xan): command line tool that can be used to process CSV files directly from the shell
+* [rclone](https://github.com/rclone/rclone): rsync for cloud storage
+* [mdterm](https://github.com/bahdotsh/mdterm): A terminal-based Markdown browser.
 
 
 ### Services
@@ -140,6 +143,7 @@ npx live-server
 ```
 * termtosvg: Record terminal sessions as SVG animations  https://github.com/nbedos/termtosvg
 * direnv – unclutter your .profile  https://direnv.net/
+* [miniserve](https://github.com/svenstaro/miniserve): a CLI tool to serve files and dirs over HTTP
 
 ### system
 
@@ -158,6 +162,7 @@ npx live-server
 * ytop and bottom: https://github.com/cjbassi/ytop https://github.com/ClementTsang/bottom
 * bpytop: Linux/OSX/FreeBSD resource monitor https://github.com/aristocratos/bpytop
 * [zoxide](https://github.com/ajeetdsouza/zoxide): A smarter cd command. Supports all major shells.
+* [killport](https://github.com/jkfran/killport): A command-line tool to kill processes and containers running on specified ports.
 
 ### tools
 
