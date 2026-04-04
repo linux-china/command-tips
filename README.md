@@ -78,10 +78,12 @@ ifconfig | grep -Eo 'inet (addr:)?([0-9]*\.){3}[0-9]*' | grep -Eo '([0-9]*\.){3}
 
 * Git extras: https://github.com/tj/git-extras
 * git-quick-stats:  https://github.com/arzzen/git-quick-stats
+* [gitql](https://github.com/amrdeveloper/GQL): a tool that built using the GitQL SDk to perform SQL like query on your local .git files
 * moro: Simple CLI tool for tracking work hours https://github.com/albacoretuna/moro
 * taskwarrior: manages your TODO list from the command line brew install task  https://taskwarrior.org/
 * asciinema:  Record and share your terminal sessions, the right way https://asciinema.org/
 * task-keeper: A cli to manage tasks from different task runners or package managers - https://github.com/linux-china/task-keeper
+* [fend](https://github.com/printfn/fend): Arbitrary-precision unit-aware calculator
 
 ### File & directory
 
@@ -109,6 +111,7 @@ alias preview="fzf --height 40% --preview 'if file -i {}|grep -q binary; then fi
 ```
 * fastest terminal file manager  https://github.com/jarun/nnn
 * jq: lightweight and flexible command-line JSON processor https://stedolan.github.io/jq/
+* [jsongrep](https://github.com/micahkepe/jsongrep): A path query language for JSON, YAML, TOML, and other serialization formats.
 * fx: Terminal JSON viewer https://github.com/antonmedv/fx
 * Monitor a process and trigger a notification https://github.com/variadico/noti
 * Run arbitrary commands when files change: http://www.entrproject.org
