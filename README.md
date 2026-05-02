@@ -1,7 +1,16 @@
 # command-tips
 
+Command tools and tips.
+
+### Bash scripting
+
+* [Amber](https://github.com/amber-lang/amber/): Amber the programming language compiled to Bash
+* [bshchk](https://github.com/b1ek/bshchk): bash dependency checker
+* [shuck](https://github.com/ewhauser/shuck): A lightning fast shell linter
+* [argc](https://github.com/sigoden/argc): Bash shell framework
 
 ### Structures
+
 dotfiles & script
 
 * .aliases: https://github.com/sebglazebrook/aliases
@@ -179,7 +188,6 @@ npx live-server
 * tokei: https://github.com/XAMPPRocky/tokei
 * gitui: terminal-ui for git https://github.com/extrawurst/gitui
 * git-stats: https://github.com/IonicaBizau/git-stats
-* [argc](https://github.com/sigoden/argc): Bash shell framework
 * [zawk](https://github.com/linux-china/zawk): awk implemented by Rust
 * [Bun](https://bun.sh/): a fast JavaScript runtime
 
