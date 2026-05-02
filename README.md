@@ -14,7 +14,7 @@ Command tools and tips.
 dotfiles & script
 
 * .aliases: https://github.com/sebglazebrook/aliases
-* .aliases_legacy: tranditional alias
+* .aliases_legacy: traditional alias
 * .functions: custom functions
 * .exports: export
 * .sources: sources
